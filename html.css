@@ -1,3 +1,9 @@
+body {
+    background-image: url("4kot.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
 p{color:green}
 
 .divTable{
